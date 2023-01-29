@@ -31,4 +31,4 @@ NumberGuesser is a simple python script that allows you to guess numbers!
 
 ## License
 
-All Rights Reserved unless otherwise explicitly stated.
+MIT License
